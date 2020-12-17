@@ -11,7 +11,7 @@ Use React to create a web app to fetch and post from any API of my choosing.
 Test my knowledge in advanced React concepts to and use an api to fetch and post data from that api. 
 
 ### API 
-See [YouTubeDataAPI] (https://developers.google.com/youtube/v3/docs/search/list) for information on the API that was used.
+See [YouTubeDataAPI](https://developers.google.com/youtube/v3/docs/search/list) for information on the API that was used.
 
 
 ### Technologies Ued
