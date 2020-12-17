@@ -30,7 +30,7 @@ class YoutubeSearch extends Component{
         return(
             <div>
                 <nav>
-                <button className="button1" onClick={this.clicked} >Click for a random video</button>
+                <button className="button1" onClick={this.clicked}>Click for a random video</button>
                 <div className="youtube">
                     {
                         this.state.searchClick.map((x) =>{
